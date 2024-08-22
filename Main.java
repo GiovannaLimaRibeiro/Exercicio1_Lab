@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    // Função que calcular o fatorial de n
+    // Função que calcula o fatorial de n
     public static int fatorial(int n) {
         if (n == 0 || n == 1) {
             return 1;
